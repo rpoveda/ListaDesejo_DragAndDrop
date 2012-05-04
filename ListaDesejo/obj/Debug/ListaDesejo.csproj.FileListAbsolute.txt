@@ -1,0 +1,5 @@
+C:\Projects\Developer\ListaDesejoMistral\ListaDesejo\bin\ListaDesejoMistral.dll
+C:\Projects\Developer\ListaDesejoMistral\ListaDesejo\bin\ListaDesejoMistral.pdb
+C:\Projects\Developer\ListaDesejoMistral\ListaDesejo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Developer\ListaDesejoMistral\ListaDesejo\obj\Debug\ListaDesejoMistral.dll
+C:\Projects\Developer\ListaDesejoMistral\ListaDesejo\obj\Debug\ListaDesejoMistral.pdb

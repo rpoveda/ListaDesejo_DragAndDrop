@@ -1,0 +1,10 @@
+c:\users\rpoveda\documents\visual studio 2010\Projects\ListaDesejoMistral\ListaDesejoMistral\bin\ListaDesejoMistral.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\ListaDesejoMistral\ListaDesejoMistral\bin\ListaDesejoMistral.pdb
+c:\users\rpoveda\documents\visual studio 2010\Projects\ListaDesejoMistral\ListaDesejoMistral\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rpoveda\documents\visual studio 2010\Projects\ListaDesejoMistral\ListaDesejoMistral\obj\Debug\ListaDesejoMistral.dll
+c:\users\rpoveda\documents\visual studio 2010\Projects\ListaDesejoMistral\ListaDesejoMistral\obj\Debug\ListaDesejoMistral.pdb
+C:\Projects\Developer\ListaDesejoMistral\ListaDesejoMistral\bin\ListaDesejoMistral.dll
+C:\Projects\Developer\ListaDesejoMistral\ListaDesejoMistral\bin\ListaDesejoMistral.pdb
+C:\Projects\Developer\ListaDesejoMistral\ListaDesejoMistral\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Developer\ListaDesejoMistral\ListaDesejoMistral\obj\Debug\ListaDesejoMistral.dll
+C:\Projects\Developer\ListaDesejoMistral\ListaDesejoMistral\obj\Debug\ListaDesejoMistral.pdb
